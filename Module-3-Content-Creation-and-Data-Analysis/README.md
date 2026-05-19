@@ -1,4 +1,4 @@
-# Module 3: Content Creation
+# Module 3: Content Creation and Data Analysis
 
 ![Creation](https://img.shields.io/badge/focus-content%20creation-f97316)
 ![Output](https://img.shields.io/badge/output-drafts%20and%20storyboards-16a34a)
@@ -9,7 +9,7 @@ The goal is not to let AI write everything without review. The goal is to use AI
 
 ## Duration
 
-Total module time: 150 minutes + 60-minute bonus lesson.
+Total module time: 150 minutes + two bonus lessons (120 minutes).
 
 | Lesson | Time | Teaching focus |
 | --- | ---: | --- |
@@ -17,6 +17,7 @@ Total module time: 150 minutes + 60-minute bonus lesson.
 | [02-social-media-content.md](02-social-media-content.md) | 50 min | Bait-hook-reward-payload framework, planning before writing, and five opening lines test |
 | [03-digital-storyboards.md](03-digital-storyboards.md) | 50 min | Narrative structure, scene planning, weak-vs-improved comparisons, and storyboard review |
 | [04-image-generation-tools.md](04-image-generation-tools.md) *(bonus)* | 60 min | DALL-E, Midjourney, and Stable Diffusion — prompt anatomy, style control, negative prompts, and responsible use |
+| [05-data-analysis.md](05-data-analysis.md) *(bonus)* | 60 min | Structured data analysis workflow, descriptive statistics, group comparisons, insights generation, and actionable recommendations |
 
 ## Learning Outcomes
 
@@ -28,6 +29,7 @@ After this module, learners should be able to:
 4. Plan and write a five-scene digital storyboard.
 5. Revise AI output using an explicit quality criteria table.
 6. *(Bonus)* Write image prompts for DALL-E, Midjourney, and Stable Diffusion, and choose the right tool for each content job.
+7. *(Bonus)* Use ChatGPT for structured data analysis, generate insights from datasets, and produce actionable recommendations.
 
 ## Lessons
 
@@ -37,6 +39,7 @@ After this module, learners should be able to:
 | [02-social-media-content.md](02-social-media-content.md) | Social media content | Adapt messages for channels |
 | [03-digital-storyboards.md](03-digital-storyboards.md) | Digital storyboards | Plan visual and narrative flow |
 | [04-image-generation-tools.md](04-image-generation-tools.md) *(bonus)* | Image generation | DALL-E, Midjourney, and Stable Diffusion |
+| [05-data-analysis.md](05-data-analysis.md) *(bonus)* | Data analysis | Structured analysis workflow and insights generation |
 
 ## Module Scenario
 
