@@ -70,7 +70,7 @@ Here is why this matters in practice:
 > **Tip:** Think of your prompt as a briefing document for a highly capable intern who has never worked at your company. They will follow your instructions carefully, but they will not ask a clarifying question unless you tell them to. Give them everything they need to do the job well.
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["You write a prompt"] --> B["Tokenization\n─────────────────\nText split into small chunks\n100 words ≈ 130–150 tokens"]
     B --> C["Context window loaded\n─────────────────\nAll tokens visible to the model\nLong inputs consume more space"]
     C --> D["Model reads your input\nand treats it as fact\nNo independent verification"]
