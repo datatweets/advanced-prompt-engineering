@@ -69,6 +69,22 @@ Here is why this matters in practice:
 
 > **Tip:** Think of your prompt as a briefing document for a highly capable intern who has never worked at your company. They will follow your instructions carefully, but they will not ask a clarifying question unless you tell them to. Give them everything they need to do the job well.
 
+```mermaid
+flowchart TD
+    A["You write a prompt"] --> B["Tokenization\n─────────────────\nText split into small chunks\n100 words ≈ 130–150 tokens"]
+    B --> C["Context window loaded\n─────────────────\nAll tokens visible to the model\nLong inputs consume more space"]
+    C --> D["Model reads your input\nand treats it as fact\nNo independent verification"]
+    D --> E{"Does the prompt include\naudience, goal, tone, format?"}
+    E -- "Yes — specific,\ncomplete prompt" --> F["Model generates a\ntargeted response"]
+    E -- "No — vague or\nincomplete prompt" --> G["Model fills gaps with\nstatistical best guess\nOutput may miss the mark"]
+    F --> H["Response returned\ntoken by token"]
+    G --> H
+
+    style G fill:#fef2f2,stroke:#dc2626,color:#111
+    style F fill:#f0fdf4,stroke:#16a34a,color:#111
+    style H fill:#eff6ff,stroke:#2563eb,color:#111
+```
+
 ---
 
 ## The Context Window: What AI Can and Cannot Remember
