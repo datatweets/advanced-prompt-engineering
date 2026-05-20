@@ -8,16 +8,16 @@ This lesson teaches you to create social media content using structured messagin
 
 You will learn a four-element framework that works across every channel, and how to adapt it for different audiences and platforms without losing the core message.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Define the payload | You identify the one thing the reader should remember |
-| 5-15 min | Build bait and hook | You design an opening that earns attention honestly |
-| 15-25 min | Add the reward | You give useful information before asking for anything |
-| 25-35 min | Adapt by channel | You adjust tone, length, and structure for each platform |
-| 35-45 min | Review and refine | You remove hype and unsupported claims |
-| 45-50 min | Compare alternatives | You evaluate five opening line options |
+| Activity | Outcome |
+| --- | --- |
+| Define the payload | You identify the one thing the reader should remember |
+| Build bait and hook | You design an opening that earns attention honestly |
+| Add the reward | You give useful information before asking for anything |
+| Adapt by channel | You adjust tone, length, and structure for each platform |
+| Review and refine | You remove hype and unsupported claims |
+| Compare alternatives | You evaluate five opening line options |
 
 ---
 

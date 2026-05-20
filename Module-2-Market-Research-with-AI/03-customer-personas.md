@@ -8,15 +8,15 @@ This lesson teaches you how to build practical customer personas from research e
 
 By the end of this lesson, you will be able to build role-based personas from your audience research and competitor analysis, map each persona to specific content requirements, and identify which parts of your persona are still hypotheses that need validation.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Distinguish useful from weak personas | You avoid the most common persona mistakes |
-| 5-15 min | Select and organize evidence | You choose notes, comments, and findings |
-| 15-25 min | Generate persona cards with AI | You build role-based audience segments |
-| 25-35 min | Map personas to content | You connect needs to formats and topics |
-| 35-45 min | Review and refine | You improve evidence quality |
+| Activity | Outcome |
+| --- | --- |
+| Distinguish useful from weak personas | You avoid the most common persona mistakes |
+| Select and organize evidence | You choose notes, comments, and findings |
+| Generate persona cards with AI | You build role-based audience segments |
+| Map personas to content | You connect needs to formats and topics |
+| Review and refine | You improve evidence quality |
 
 ---
 

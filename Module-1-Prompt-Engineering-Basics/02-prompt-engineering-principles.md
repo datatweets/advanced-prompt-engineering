@@ -10,16 +10,16 @@ Prompt engineering is the practice of crafting inputs that produce outputs worth
 
 By the end of this lesson you will be able to: write prompts that give clear direction, control output format, use examples strategically, evaluate quality systematically, and break complex work into manageable steps.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Compare weak and strong prompts | You see concretely why prompt quality matters |
-| 5-15 min | Principles 1 and 2: Direction and Format | You control role, audience, style, and output structure |
-| 15-25 min | Zero-shot, one-shot, and few-shot | You choose the right amount of examples |
-| 25-35 min | Chain-of-thought and Evaluation | You check quality and ask for visible reasoning |
-| 35-45 min | Divide labor | You break complex work into reliable steps |
-| 45-50 min | Practice and review | You apply all five principles to one real task |
+| Activity | Outcome |
+| --- | --- |
+| Compare weak and strong prompts | You see concretely why prompt quality matters |
+| Principles 1 and 2: Direction and Format | You control role, audience, style, and output structure |
+| Zero-shot, one-shot, and few-shot | You choose the right amount of examples |
+| Chain-of-thought and Evaluation | You check quality and ask for visible reasoning |
+| Divide labor | You break complex work into reliable steps |
+| Practice and review | You apply all five principles to one real task |
 
 ---
 

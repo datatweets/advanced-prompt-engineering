@@ -8,16 +8,16 @@ This lesson teaches you how to plan and execute content distribution using AI as
 
 Distribution is where most content efforts fail. Great articles get written and forgotten. Social posts go out without a clear purpose. The same message gets sent to every channel in the same format. This lesson fixes that.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Define the campaign goal | You choose a specific goal: awareness, education, leads, or retention |
-| 5-15 min | Map the audience journey | You match content to decision stages |
-| 15-25 min | Build the distribution calendar | You produce a channel plan |
-| 25-35 min | Add metrics and review steps | You connect content to measurement |
-| 35-45 min | Adapt and repurpose | You turn one piece of content into three channel assets |
-| 45-50 min | Assess team capacity | You make the plan realistic |
+| Activity | Outcome |
+| --- | --- |
+| Define the campaign goal | You choose a specific goal: awareness, education, leads, or retention |
+| Map the audience journey | You match content to decision stages |
+| Build the distribution calendar | You produce a channel plan |
+| Add metrics and review steps | You connect content to measurement |
+| Adapt and repurpose | You turn one piece of content into three channel assets |
+| Assess team capacity | You make the plan realistic |
 
 ---
 

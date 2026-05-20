@@ -8,16 +8,16 @@ This lesson teaches a structured AI-assisted workflow for writing blog posts and
 
 The single most important principle here is this: do not ask for the whole article at once. When you give AI an undirected write command, you get a generic, forgettable article that sounds like every other AI-generated article on the same topic. The workflow in this lesson is designed to prevent that.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Define the content job | You identify audience, topic, and business goal |
-| 5-15 min | Write the content brief | You gather angles and required evidence before drafting |
-| 15-25 min | Generate and choose the outline | You build structure before writing |
-| 25-35 min | Draft one section at a time | You divide labor and maintain creative control |
-| 35-45 min | Run the review prompt | You check claims, style, structure, and usefulness |
-| 45-50 min | Finalize and discuss | You compare the AI-assisted version to the original brief |
+| Activity | Outcome |
+| --- | --- |
+| Define the content job | You identify audience, topic, and business goal |
+| Write the content brief | You gather angles and required evidence before drafting |
+| Generate and choose the outline | You build structure before writing |
+| Draft one section at a time | You divide labor and maintain creative control |
+| Run the review prompt | You check claims, style, structure, and usefulness |
+| Finalize and discuss | You compare the AI-assisted version to the original brief |
 
 ---
 

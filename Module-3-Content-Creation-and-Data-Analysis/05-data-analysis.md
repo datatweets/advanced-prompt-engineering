@@ -10,17 +10,17 @@ By the end of this lesson you will be able to: inspect a dataset, ask better ana
 
 ---
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-|---:|---|---|
-| 0–5 min | Understand the dataset | You know what columns exist and what they mean |
-| 5–15 min | Inspect data quality and structure | You identify ranges, categories, and possible issues |
-| 15–25 min | Generate descriptive statistics | You summarize the dataset clearly |
-| 25–35 min | Compare groups and find patterns | You produce useful segment analysis |
-| 35–45 min | Ask for insights and recommendations | You turn numbers into decisions |
-| 45–55 min | Build reusable prompts | You create analysis templates for future datasets |
-| 55–60 min | Review and checklist | You verify that the analysis is complete and useful |
+| Activity | Outcome |
+|---|---|
+| Understand the dataset | You know what columns exist and what they mean |
+| Inspect data quality and structure | You identify ranges, categories, and possible issues |
+| Generate descriptive statistics | You summarize the dataset clearly |
+| Compare groups and find patterns | You produce useful segment analysis |
+| Ask for insights and recommendations | You turn numbers into decisions |
+| Build reusable prompts | You create analysis templates for future datasets |
+| Review and checklist | You verify that the analysis is complete and useful |
 
 ---
 

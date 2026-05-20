@@ -8,16 +8,16 @@ This lesson teaches you how to create practical AI usage guidelines for a busine
 
 Guidelines are not legal documents. They are working agreements. They answer the question every team member eventually asks: "Is it okay for me to use AI for this?"
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Understand why guidelines matter | You connect AI use to team accountability |
-| 5-15 min | Define approved and restricted uses | You establish clear boundaries |
-| 15-25 min | Set prompt quality standards | You define what a work-ready prompt looks like |
-| 25-35 min | Build review and escalation rules | You decide when human approval is required |
-| 35-45 min | Draft a one-page guideline | You produce a document your team can use today |
-| 45-50 min | Review and improve | You run the guideline through a quality check |
+| Activity | Outcome |
+| --- | --- |
+| Understand why guidelines matter | You connect AI use to team accountability |
+| Define approved and restricted uses | You establish clear boundaries |
+| Set prompt quality standards | You define what a work-ready prompt looks like |
+| Build review and escalation rules | You decide when human approval is required |
+| Draft a one-page guideline | You produce a document your team can use today |
+| Review and improve | You run the guideline through a quality check |
 
 ---
 

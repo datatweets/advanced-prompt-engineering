@@ -8,16 +8,16 @@ This bonus lesson teaches you to write prompts for the three most widely used AI
 
 The core principle is the same as in text prompting: specificity produces better output. A vague prompt like "office meeting" produces a generic stock photo. A specific prompt with subject, style, lighting, and technical modifiers produces something your content team can actually use.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-10 min | Compare the three tools | You choose the right tool for each content type |
-| 10-20 min | Anatomy of an image prompt | You identify the four parts every image prompt needs |
-| 20-30 min | DALL-E prompts | You write natural-language image prompts in plain English |
-| 30-40 min | Midjourney prompts | You apply style weights, aspect ratios, and negative parameters |
-| 40-50 min | Stable Diffusion prompts | You use positive + negative prompts and seed control |
-| 50-60 min | Templates and practice | You build reusable image prompt templates |
+| Activity | Outcome |
+| --- | --- |
+| Compare the three tools | You choose the right tool for each content type |
+| Anatomy of an image prompt | You identify the four parts every image prompt needs |
+| DALL-E prompts | You write natural-language image prompts in plain English |
+| Midjourney prompts | You apply style weights, aspect ratios, and negative parameters |
+| Stable Diffusion prompts | You use positive + negative prompts and seed control |
+| Templates and practice | You build reusable image prompt templates |
 
 ---
 

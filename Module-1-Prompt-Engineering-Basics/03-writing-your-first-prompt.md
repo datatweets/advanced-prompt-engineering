@@ -10,16 +10,16 @@ This is the lesson where everything becomes practical. You are not learning abou
 
 By the end, you will have a working prompt structure you can adapt to dozens of real tasks, a habit of testing before trusting, and a review process you can apply to any AI output.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Choose a real task | You pick a task from your own work or study |
-| 5-15 min | Build the first prompt | You add role, task, audience, context, and format |
-| 15-25 min | Test and evaluate the output | You identify vague, missing, or risky content |
-| 25-35 min | Add examples and quality criteria | You improve reliability |
-| 35-45 min | Run a review prompt | You produce and assess an improved second version |
-| 45-50 min | Reflect and share | You explain what changed and why |
+| Activity | Outcome |
+| --- | --- |
+| Choose a real task | You pick a task from your own work or study |
+| Build the first prompt | You add role, task, audience, context, and format |
+| Test and evaluate the output | You identify vague, missing, or risky content |
+| Add examples and quality criteria | You improve reliability |
+| Run a review prompt | You produce and assess an improved second version |
+| Reflect and share | You explain what changed and why |
 
 ---
 

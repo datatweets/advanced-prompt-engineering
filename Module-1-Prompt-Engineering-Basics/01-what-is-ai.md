@@ -10,15 +10,15 @@ The goal is not to make you an AI engineer. The goal is to make you a confident,
 
 This lesson is the foundation for everything that follows. If you understand what AI is doing under the hood, even at a high level, every other lesson will make more sense.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Opening scenario | You see why AI matters in daily work |
-| 5-15 min | What generative AI does | You understand prediction, text generation, and chat history |
-| 15-25 min | Tokens and context windows | You understand token limits and why long inputs need structure |
-| 25-35 min | Capabilities and limitations | You separate useful tasks from risky tasks |
-| 35-45 min | Exercise and review | You explain AI to a selected audience in your own words |
+| Activity | Outcome |
+| --- | --- |
+| Opening scenario | You see why AI matters in daily work |
+| What generative AI does | You understand prediction, text generation, and chat history |
+| Tokens and context windows | You understand token limits and why long inputs need structure |
+| Capabilities and limitations | You separate useful tasks from risky tasks |
+| Exercise and review | You explain AI to a selected audience in your own words |
 
 ---
 

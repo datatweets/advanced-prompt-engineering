@@ -10,16 +10,16 @@ A storyboard is a scene-by-scene plan that tells a visual story. It is not a scr
 
 The key principle here is the same as in blog writing: plan structure before generating content. An unplanned AI-generated video script produces a talking-head monologue with no visual thinking. A structured storyboard prompt produces something a production team can actually use.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Define the story goal | You identify what the viewer should think or do after watching |
-| 5-15 min | Choose the narrative structure | You build a clear opening problem, solution, and resolution |
-| 15-25 min | Create the storyboard table | You specify visual, text, narration, and production notes |
-| 25-35 min | Add review criteria | You check pacing, clarity, and risk |
-| 35-45 min | Revise a weak scene | You improve one specific scene before production |
-| 45-50 min | Compare before and after | You see how revision changes quality |
+| Activity | Outcome |
+| --- | --- |
+| Define the story goal | You identify what the viewer should think or do after watching |
+| Choose the narrative structure | You build a clear opening problem, solution, and resolution |
+| Create the storyboard table | You specify visual, text, narration, and production notes |
+| Add review criteria | You check pacing, clarity, and risk |
+| Revise a weak scene | You improve one specific scene before production |
+| Compare before and after | You see how revision changes quality |
 
 ---
 

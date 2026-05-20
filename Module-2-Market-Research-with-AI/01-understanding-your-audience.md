@@ -8,15 +8,15 @@ This lesson teaches you how to use AI to turn business goals, customer feedback,
 
 AI is a powerful tool for organizing large volumes of audience information. It cannot replace real customer conversations, but it can help you see patterns in the evidence you already have — faster and more clearly than reviewing notes manually.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Define the research question | You move from vague goals to specific questions |
-| 5-15 min | Identify and prepare source material | You choose relevant notes, comments, surveys, or interviews |
-| 15-25 min | Extract themes with AI | You use AI to summarize and classify audience needs |
-| 25-35 min | Separate evidence from assumptions | You avoid treating guesses as facts |
-| 35-45 min | Build content requirements | You connect audience needs to content topics |
+| Activity | Outcome |
+| --- | --- |
+| Define the research question | You move from vague goals to specific questions |
+| Identify and prepare source material | You choose relevant notes, comments, surveys, or interviews |
+| Extract themes with AI | You use AI to summarize and classify audience needs |
+| Separate evidence from assumptions | You avoid treating guesses as facts |
+| Build content requirements | You connect audience needs to content topics |
 
 ---
 

@@ -8,16 +8,16 @@ This lesson teaches you how to use AI responsibly in business, corporate, and ed
 
 Responsible use is not a separate track from effective use. Every skill in this course — the five principles, research workflows, content creation — only holds its value if the output is accurate, appropriate, and safe to publish or send.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Establish the core principle | You understand that responsibility follows the person, not the tool |
-| 5-15 min | Identify risk categories | You recognize the six main risks and their controls |
-| 15-25 min | Build a safer prompt | You write prompts with built-in safeguards |
-| 25-35 min | Run a risk review | You use a structured review table on real output |
-| 35-45 min | Build a human review checklist | You define the review steps your work requires |
-| 45-50 min | Discuss edge cases | You apply responsible use to ambiguous scenarios |
+| Activity | Outcome |
+| --- | --- |
+| Establish the core principle | You understand that responsibility follows the person, not the tool |
+| Identify risk categories | You recognize the six main risks and their controls |
+| Build a safer prompt | You write prompts with built-in safeguards |
+| Run a risk review | You use a structured review table on real output |
+| Build a human review checklist | You define the review steps your work requires |
+| Discuss edge cases | You apply responsible use to ambiguous scenarios |
 
 ---
 

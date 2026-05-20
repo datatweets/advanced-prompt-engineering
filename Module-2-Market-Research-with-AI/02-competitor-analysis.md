@@ -8,15 +8,15 @@ This lesson teaches source-grounded competitor analysis. You will learn how to u
 
 The five prompt principles from Module 1 all apply here. Competitor analysis is a perfect test case for why grounding (giving the model real source material) matters so much: without it, AI will generate plausible-sounding claims about competitors that may be completely fabricated.
 
-## Timing Plan
+## Lesson Overview
 
-| Time | Activity | Outcome |
-| ---: | --- | --- |
-| 0-5 min | Define the comparison question | You identify what you need to learn |
-| 5-15 min | Collect source excerpts | You understand why AI needs grounded inputs |
-| 15-25 min | Build comparison table | You compare positioning, proof, and content |
-| 25-35 min | Identify gaps and risky claims | You separate facts from interpretation |
-| 35-45 min | Turn findings into strategic options | You produce positioning ideas and content priorities |
+| Activity | Outcome |
+| --- | --- |
+| Define the comparison question | You identify what you need to learn |
+| Collect source excerpts | You understand why AI needs grounded inputs |
+| Build comparison table | You compare positioning, proof, and content |
+| Identify gaps and risky claims | You separate facts from interpretation |
+| Turn findings into strategic options | You produce positioning ideas and content priorities |
 
 ---
 
